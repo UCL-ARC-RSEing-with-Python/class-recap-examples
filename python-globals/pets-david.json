@@ -1,0 +1,23 @@
+{
+  "velloso": {
+    "species": "cat",
+    "breed": "ragamuffin",
+    "age": 9.75,
+    "colour": "white",
+    "temperament": "lazy"
+  },
+  "toro": {
+    "species": "dog",
+    "breed": "spanish bulldog",
+    "age": 4.25,
+    "colour": "black w/ white socks",
+    "temperament": "loud"
+  },
+  "canaria": {
+    "species": "canary",
+    "breed": "atlantic",
+    "age": 0.75,
+    "colour": "yellow",
+    "temperament": "skittish"
+  }
+}

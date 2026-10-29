@@ -1,0 +1,23 @@
+{
+  "monty": {
+    "species": "dog",
+    "breed": "cockapoo",
+    "age": 2.0,
+    "colour": "light brown",
+    "temperament": "mischievous"
+  },
+  "alba": {
+    "species": "dog",
+    "breed": "rumelia shepard",
+    "age": 3.5,
+    "colour": "grey-white",
+    "temperament": "shy"
+  },
+  "cheddar": {
+    "species": "cat",
+    "breed": "british shorthair",
+    "age": 1.0,
+    "colour": "ginger",
+    "temperament": "excitable"
+  }
+}
